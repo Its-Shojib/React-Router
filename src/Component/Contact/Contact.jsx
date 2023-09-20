@@ -2,7 +2,7 @@
 const Contact = () => {
     return (
         <div className="text-center">
-            <p>Please Contact Us</p>
+            <h2>Please Contact Us</h2>
         </div>
     );
 };

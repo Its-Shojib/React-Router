@@ -5,7 +5,7 @@ const Users = () => {
     let users = useLoaderData();
     return (
         <div>
-            <p>This is Users</p>
+            <h2>This is Users</h2>
             <p>Our User: {users.length}</p>
         </div>
     );
